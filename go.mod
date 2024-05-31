@@ -1,4 +1,4 @@
-module github.com/Skyth3r/go-monzo-client
+module github.com/skyth3r/go-monzo-oauth-flow
 
 go 1.22.1
 

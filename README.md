@@ -1,4 +1,4 @@
-# Go Monzo Client
+# Go Monzo OAuth Flow
 
 A basic third party [Monzo](https://monzo.com/) OAuth client for accessing the [Monzo API](https://docs.monzo.com/) written in Go.
 
